@@ -1,7 +1,7 @@
 # Da Hood Personal Choice
 
 {% hint style="info" %}
-These are my personal uses, Swagmode and Faded has free and paid versions.
+These are my personal uses, both Swagmode and Faded have free and paid versions.
 {% endhint %}
 
 ```lua
